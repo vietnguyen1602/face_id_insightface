@@ -1,0 +1,6 @@
+imutils
+mtcnn
+tensorflow
+keras
+mx-net
+opencv-python
